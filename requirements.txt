@@ -1,0 +1,7 @@
+# Data preparation and machine-learning workflows.
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+mlxtend>=0.23,<1
+# Test runner for reproducibility checks.
+pytest>=8.3,<10
